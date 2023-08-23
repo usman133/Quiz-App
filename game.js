@@ -63,7 +63,6 @@ getNewQuestion = () => {
     });
 
     availableQuestions.splice(questionIndex, 1);
-
     acceptingAnswers = true;
 };
 
@@ -74,6 +73,10 @@ choices.forEach(choice => {
         acceptingAnswers = false;
         const selectedChoice = e.target;
         const selectedAnswer = selectedChoice.dataset["number"];
+
+        const classToApply = selectedAnswer == currentQuestion.answer ? 'correct': 'incorrect';
+        console.log(classToApply);
+
         getNewQuestion();
     })
 })
