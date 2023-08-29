@@ -12,7 +12,7 @@ This project is a Quiz application that allows users to test their knowledge by 
 * Fetching trivia questions from the Open Trivia DB API.
 
 ## Usage
-1. Start the application by opening the 'index.html' file in your browser.
+1. Start the application by opening the ('index.html) file in your browser.
 
 2. Follow the on-screen instructions to take the quiz and answer trivia questions.
 
