@@ -1,10 +1,10 @@
 # Quiz Application
 ## Introduction
-This project is a Quiz application that allows users to test their knowledge by answering 3 general knowledge questions, out of a total of 10. Here are some of the key features and topics covered in this course:
+This project is a Quiz application that allows users to test their knowledge by answering 3 general knowledge questions. Here are some of the key features and topics covered in this course:
 
 * ES6 JavaScript features like arrow functions, the spread operator, const and let, and template literal strings.
 * Saving high scores in Local Storage.
-* Displaying high scores from local storage.
+* Displaying high scores from Local Storage.
 * Using Flexbox, Animations, and REM units in CSS.
 * Creating a progress bar from scratch.
 * Designing a spinning loader icon.
@@ -12,7 +12,7 @@ This project is a Quiz application that allows users to test their knowledge by 
 * Fetching trivia questions from the Open Trivia DB API.
 
 ## Usage
-1. Start the application by opening the index.html file in your browser.
+1. Start the application by opening the 'index.html' file in your browser.
 
 2. Follow the on-screen instructions to take the quiz and answer trivia questions.
 
